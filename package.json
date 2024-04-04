@@ -1,0 +1,26 @@
+{
+  "name": "registration_form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/21pa1a6124/BHARAT_INTERNSHIP.git"
+  },
+  "author": "karthik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/21pa1a6124/BHARAT_INTERNSHIP/issues"
+  },
+  "homepage": "https://github.com/21pa1a6124/BHARAT_INTERNSHIP#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "firebase-admin": "^12.0.0",
+    "mongoose": "^8.3.0",
+    "password-hash": "^1.2.2",
+    "request": "^2.88.2"
+  }
+}
